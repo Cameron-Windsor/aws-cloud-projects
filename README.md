@@ -8,7 +8,7 @@ I am currently pursuing a Bachelor of Applied Technology in Cloud Computing with
 
 | Project | AWS Services / Skills | Status |
 |---|---|---|
-| [01 - VPC Networking](01-vpc-networking/README.md) | VPC, subnets, route tables, internet gateway, CIDR | In Progress |
+| [01 - VPC Networking](01-vpc-networking/README.md) | VPC, subnets, route tables, internet gateway, CIDR | Completed |
 | [02 - EC2 Web Server](02-ec2-web-server/README.md) | EC2, Amazon Linux, security groups, Apache, user data | Completed |
 | [03 - AMI Custom Image](03-ami-custom-image/README.md) | EC2, AMI, reusable server images | Completed |
 | [04 - S3 Static Website](04-s3-static-website/README.md) | S3, bucket policies, static website hosting | Completed |
