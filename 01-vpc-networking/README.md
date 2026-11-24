@@ -1,30 +1,49 @@
 # 01 - Amazon VPC Networking
 
-**Status:** In Progress
+**Status:** Completed
 
-## Project Goal
+## Project Overview
 
-Build a custom Amazon Virtual Private Cloud (VPC) and configure the core networking components needed to run AWS resources in an isolated cloud network.
+In this lab, I created an Amazon Virtual Private Cloud (VPC) and configured the networking resources needed to support AWS workloads in an isolated cloud network.
 
-## Planned AWS Components
+## AWS Services & Concepts
 
 - Amazon VPC
-- Public and private subnets
 - IPv4 CIDR addressing
+- Public and private subnets
 - Route tables
 - Internet gateway
-- NAT gateway where required
+- NAT gateway concepts
 - DNS options
-- Security-related network configuration
+- VPC resource mapping
 
-## What This Project Demonstrates
+## What I Did
 
-This project is designed to demonstrate cloud networking fundamentals, including how subnets divide a VPC, how route tables direct traffic, and how gateways provide connectivity between AWS resources and external networks.
+- Created a custom VPC in the AWS Management Console.
+- Configured an IPv4 CIDR range for the VPC.
+- Created and reviewed subnet configuration.
+- Worked with route tables and gateway connectivity.
+- Reviewed how public and private subnets control where resources are placed.
+- Used the VPC resource map to understand the relationships between networking components.
+
+## Skills Demonstrated
+
+- AWS cloud networking
+- IP addressing and CIDR concepts
+- Subnet design
+- Routing fundamentals
+- Internet connectivity in AWS
+- Network architecture visualization
+- AWS Management Console navigation
+
+## What I Learned
+
+This project helped me understand how AWS networking is structured before compute resources are deployed. I learned how VPCs, subnets, route tables, and gateways work together to control communication between cloud resources and external networks.
 
 ## Evidence
 
-Screenshots and a completed project summary will be added after the lab is finished.
+Screenshots from the completed lab can be added to show the VPC configuration, subnet layout, route tables, gateways, and resource map.
 
 ## Security Note
 
-No credentials, access keys, private keys, or sensitive account information will be included.
+No credentials, access keys, private keys, or sensitive account information are included in this project.
